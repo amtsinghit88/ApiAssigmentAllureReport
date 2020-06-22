@@ -1,0 +1,20 @@
+entities/ProductColor.java
+ entities.ProductColor
+entities/Info.java
+ entities.Info
+endPoints/ProductService.java
+ endPoints.ProductService
+utils/ReporterUtil.java
+ utils.ReporterUtil
+core/GetService.java
+ core.GetService
+data/QueryPool.java
+ data.QueryPool
+client/ProductClient.java
+ client.ProductClient
+endPoints/HeaderBuilder.java
+ endPoints.HeaderBuilder
+entities/ProductList.java
+ entities.ProductList
+entities/ProductResponse.java
+ entities.ProductResponse

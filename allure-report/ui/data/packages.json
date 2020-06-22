@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "ProductTest",
+    "children" : [ {
+      "name" : "findProductDetails",
+      "uid" : "3029f9dbfff00bbc",
+      "parentUid" : "8eb831f9f8875b7c8e9f178507ad8015",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592796456071,
+        "stop" : 1592796460117,
+        "duration" : 4046
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8eb831f9f8875b7c8e9f178507ad8015"
+  } ],
+  "name" : "packages"
+}

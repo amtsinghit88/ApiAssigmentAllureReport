@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "amit-Latitude-3480",
+    "children" : [ {
+      "name" : "6877@amit-Latitude-3480.Test worker(12)",
+      "children" : [ {
+        "name" : "findProductDetails",
+        "uid" : "3029f9dbfff00bbc",
+        "parentUid" : "54dbdcf903494502b6c7f2ff34781a28",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592796456071,
+          "stop" : 1592796460117,
+          "duration" : 4046
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "54dbdcf903494502b6c7f2ff34781a28"
+    } ],
+    "uid" : "0121ae77de2e1cbc68ff061d700935f5"
+  } ],
+  "name" : "timeline"
+}

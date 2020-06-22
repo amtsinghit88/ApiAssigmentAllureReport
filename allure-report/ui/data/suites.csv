@@ -1,0 +1,2 @@
+"Status","Name","Duration in ms","Description"
+"passed","ProductTest.findProductDetails","4046","find product type under product json"

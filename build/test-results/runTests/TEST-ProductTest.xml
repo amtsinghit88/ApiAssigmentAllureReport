@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProductTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-22T03:27:36" hostname="amit-Latitude-3480" time="4.115">
+  <properties/>
+  <testcase name="findProductDetails" classname="ProductTest" time="4.115"/>
+  <system-out><![CDATA[ Test: findProductDetails Status: Started
+Request method:	GET
+Request URI:	http://makeup-api.herokuapp.com/api/v1/products.json?product_type=eyeliner&category=pencil&brand=maybelline
+Proxy:			<none>
+Request params:	<none>
+Query params:	product_type=eyeliner
+				category=pencil
+				brand=maybelline
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Maybelline Color Show Kohl Liner 5.99 null
+Total number of produuct1
+Maybelline Line Stiletto Ultimate Precision Liquid Eyeliner 10.29 4.0
+Total number of produuct2
+Maybelline Liquid Eyeliner 10.99 4.2
+Total number of produuct1
+Maybelline Eye Studio Lasting Drama Gel Eyeliner 11.99 4.4
+Total number of produuct1
+ Test: findProductDetails Status: Completed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
